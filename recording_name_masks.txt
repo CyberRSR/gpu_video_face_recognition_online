@@ -1,0 +1,23 @@
+# Include masks (fnmatch), one per line.
+# Example for a camera/group id:
+#*589518489*mkv
+#*523986*mkv
+#*524909*mkv
+#*9799106*mkv
+#*89799590*mkv
+#*89799889*mkv
+#*68277088*mkv
+*
+
+# Exclude masks start with !
+# Example:
+!*test*
+!*1_999_052*
+!*1_999_053*
+!*1_999_106*
+!*00874OAH417*
+!*801684ZQS100*
+!*65342802*
+!*89799529*
+!*89545979*
+
